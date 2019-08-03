@@ -408,7 +408,7 @@ div#preloader {
   color: #fff;
   padding: 0;
   margin: 0;
-  font-size: 30;
+  font-size: 30px;
   font-weight: bold;
   line-height: 1;
 }
@@ -416,16 +416,17 @@ div#preloader {
 .sticky-logo h1 span {
   color: #ff9d3b;
 }
-.sticky-logo h3 {
+.sticky-logo h4 {
   color: #fff;
   padding: 0;
+  padding-top: 15px;
   margin: 0;
-  font-size: 20;
+  font-size: 24px;
   font-weight: bold;
   line-height: 1;
 }
 
-.sticky-logo h3 span {
+.sticky-logo h4 span {
   color: #ff9d3b;
 }
 
