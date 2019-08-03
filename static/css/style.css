@@ -408,7 +408,7 @@ div#preloader {
   color: #fff;
   padding: 0;
   margin: 0;
-  font-size: 3vw;
+  font-size: 30;
   font-weight: bold;
   line-height: 1;
 }
@@ -416,6 +416,19 @@ div#preloader {
 .sticky-logo h1 span {
   color: #ff9d3b;
 }
+.sticky-logo h3 {
+  color: #fff;
+  padding: 0;
+  margin: 0;
+  font-size: 20;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.sticky-logo h3 span {
+  color: #ff9d3b;
+}
+
 .stick .main-menu ul.navbar-nav li.active > a::after {
   border: 1px solid #fff;
   bottom: 0px;
