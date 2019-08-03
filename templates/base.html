@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title>test</title>
+  </head>
+
+  <body>
+    <header>
+      <h1>目的地候補</h1>
+    </header>
+    <div>
+      {% for destination in object_list %}
+        <p>行先: {{ destination.name }} , 住所: {{ destination.address }}</p>
+      {% endfor %}
+    </div>
+  </body>
+</html>
